@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leta Asefa</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
+<h3 align="center" ><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt=" " width="400" ></h3>
 
-- 🌱 I’m currently learning **Spring Boot and Hibernate**
 
-- 💬 Ask me about **C++ , Java , JavaFx , Servlet , JSP ,JSTL ,Spring Boot, Hibernate , JavaScript, HTML, CSS , MySQL , Data Structure and Algorithm , Git , Basics of Networking**
+<h3 align="center"> - 🌱 I’m currently learning **Spring Boot and Hibernate** </h3>
+
+- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP ,JSTL ,Spring Boot, Hibernate , JavaScript, HTML, CSS , MySQL , Data Structure and Algorithm , Git , Basics of Networking** 
 
 - 📫 How to reach me **letaassefa7@gmail.com**
 
