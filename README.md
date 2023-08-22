@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leta Asefa</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
-<h3 align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2UbcYkJ--Qmt--mBo3pTUv&ust=1692807851756000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiloYXX8IADFQAAAAAdAAAAABAE" alt=" " width="400" ></h3>
+<h3 align="center" ><img src="https://github.com/Leta-Asefa/Shalom-Reflexology/blob/main/src/application/Images/giphy.gif" alt=" " width="400" ></h3>
 
 
 <h3 align="center"> - 🌱 I’m currently learning **Spring Boot and Hibernate** </h3>
