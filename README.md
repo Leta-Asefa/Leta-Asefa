@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **letaassefa7@gmail.com**
 
-<h3 align="left">Connect with me: <a href="t.me/letaasefa">On Telegram</a></h3>
+<h3 align="left">Connect with me: <a href="https://t.me/letaasefa">On Telegram</a></h3>
 <p align="left">
 </p>
 
