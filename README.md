@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leta Asefa</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
-<h3 align="center" ><img src="https://github.com/Leta-Asefa/Shalom-Reflexology/blob/main/src/application/Images/giphy.gif" alt=" " width="400" ></h3>
+<h3 align="center" ><img src="https://github.com/Leta-Asefa/Shalom-Reflexology/blob/main/src/application/Images/giphy.gif" alt=" " width="350" ></h3>
 
 
-<h3 align="center"> - 🌱 I’m currently learning **Spring Boot and Hibernate** </h3>
+<h3 align="center"> - 🌱 I’m currently learning **Spring Boot** </h3>
 
-- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP ,JSTL ,Spring Boot, Hibernate , JavaScript, HTML, CSS , MySQL , Data Structure and Algorithm , Git , Basics of Networking**
+- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP ,JSTL , Spring Boot , Hibernate , JavaScript , HTML , CSS , MySQL ,MongoDb , Data Structure and Algorithm , Git , Basics of Networking**
   
 - Tools : **Ecllipse , STS , VSCode , Maven**
 
