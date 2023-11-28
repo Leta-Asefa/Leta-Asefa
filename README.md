@@ -5,7 +5,7 @@
 
 <h3 align="center"> - 🌱 I’m currently learning **Spring Boot** </h3>
 
-- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP , JSTL , JDBC , Spring Boot , Hibernate , JavaScript , HTML , CSS , MySQL ,MongoDb , Data Structure and Algorithm , Git , Basics of Networking**
+- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP , JSTL , JDBC , Spring Boot , Hibernate ,Junit Jupiter , JavaScript , HTML , CSS , MySQL ,MongoDb , Data Structure and Algorithm , Git , Basics of Networking**
   
 - Tools : **Ecllipse , STS , VSCode , Maven**
 
