@@ -3,9 +3,9 @@
 <h3 align="center" ><img src="https://github.com/Leta-Asefa/Shalom-Reflexology/blob/main/src/application/Images/giphy.gif" alt=" " width="350" ></h3>
 
 
-<h3 align="center"> - 🌱 I’m currently learning **ReactJS** </h3>
+<h3 align="center"> - 🌱 I’m currently learning **Docker** </h3>
 
-- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP , JSTL , JDBC , Spring Boot, Microservices, Hibernate ,Junit Jupiter , JavaScript , HTML , CSS, TailwindCss, Python, MySQL ,MongoDb , Data Structure and Algorithm , Git , Basics of Networking**
+- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP , JSTL , JDBC , Spring Boot, Microservices, Hibernate ,Junit Jupiter , JavaScript,ReactJS , HTML , CSS, TailwindCss, Python, MySQL ,MongoDb , Data Structure and Algorithm , Git , Basics of Networking**
   
 - Tools : **Ecllipse , STS , VSCode , Maven**
 
