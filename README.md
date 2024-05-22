@@ -5,9 +5,9 @@
 
 <h3 align="center"> - 🌱 I’m currently learning **Docker** </h3>
 
-- 💬 Ask me about  **C++ , Java , JavaFx , Servlet , JSP , JSTL , JDBC , Spring Boot, Microservices, Hibernate ,Junit Jupiter , JavaScript,ReactJS , HTML , CSS, TailwindCss, Python, MySQL ,MongoDb , Data Structure and Algorithm , Git , Basics of Networking**
+- 💬 Ask me about  **Java | JavaFx | Spring Boot | Microservices | Junit Jupiter | JavaScript | ReactJS | NodeJs | TailwindCss | MySQL | MongoDb | Data Structure and Algorithm | Git**
   
-- Tools : **Ecllipse , STS , VSCode , Maven**
+- Tools : **Ecllipse | STS | VSCode | Maven**
 
 - 📫 How to reach me **letaassefa7@gmail.com**
 
