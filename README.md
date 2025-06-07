@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leta Asefa</h1>
-<h3 align="center">A passionate backend developer from Ethiopia</h3>
+<h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
 <h3 align="center" ><img src="https://github.com/Leta-Asefa/Shalom-Reflexology/blob/main/src/application/Images/giphy.gif" alt=" " width="350" ></h3>
 
 
-<h3 align="center"> - 🌱 I’m currently learning **Docker** </h3>
 
-- 💬 Ask me about  **Java | JavaFx | Spring Boot | Microservices | Junit Jupiter | JavaScript | ReactJS | NodeJs | TailwindCss | MySQL | MongoDb | Data Structure and Algorithm | Git**
+- 💬 Ask me about  **JavaScript | ReactJS | NodeJs | React Nativev | TailwindCss | MySQL | MongoDb | Data Structure and Algorithm | Git**
   
-- Tools : **Ecllipse | STS | VSCode | Maven**
 
 - 📫 How to reach me **letaassefa7@gmail.com**
 
