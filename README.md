@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about  **JavaScript | ReactJS | NodeJs | React Nativev | TailwindCss | MySQL | MongoDb | Data Structure and Algorithm | Git**
+- 💬 Ask me about  **JavaScript | ReactJS | NodeJs | React Native | TailwindCss | MySQL | MongoDb | Data Structure and Algorithm | Git**
   
 
 - 📫 How to reach me **letaassefa7@gmail.com**
